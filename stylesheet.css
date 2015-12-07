@@ -1,0 +1,58 @@
+/*CSS Stylesheet*/
+
+/** {border: 1px solid black;}*/
+
+body {
+    margin: 0;
+}
+
+img{
+    max-height: inherit;
+    max-width: inherit;
+    
+}
+
+.slide img { width: vh; 
+    height: 75vh; 
+}
+
+
+
+.section{
+    
+    text-align: center;
+    font-size: 64px;
+    
+}
+
+#fp-nav{
+    position: absolute;
+    top: 150px;
+    left: 90px;
+    z-index: 12;
+    
+    
+    
+}
+
+.header{
+    height:75px;
+    background: black;
+    color: white;
+    border-bottom: 3px solid green;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 35px;
+    width: 100%;
+    position: fixed;
+    top:0;
+    z-index: 9;
+    
+}
+
+iframe{
+    
+    
+    
+    
+}
